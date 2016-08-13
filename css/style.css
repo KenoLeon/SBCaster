@@ -1,0 +1,15 @@
+body{
+  background-color: #222;
+}
+
+video{
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
+}
+
+.controls{
+  margin-top: -100px;
+}
