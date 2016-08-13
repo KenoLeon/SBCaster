@@ -1,3 +1,3 @@
 # SBCaster
 
-Gh-pages: 
+Gh-pages: https://kenoleon.github.io/SBCaster/
